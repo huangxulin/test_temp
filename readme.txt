@@ -4,3 +4,4 @@ line 3
 no fast forward
 Creating a new branch is quick AND simple.
 line 4
+test git stash
