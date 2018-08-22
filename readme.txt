@@ -1,3 +1,4 @@
 line 1
-Creating a new branch is quick and simple.
+line 2
 line 3
+Creating a new branch is quick AND simple.
